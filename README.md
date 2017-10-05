@@ -6,4 +6,4 @@ A Python / OpenCV script that classifies frames from a camera with a DNN / Caffe
 - Python 3
 - imutils
 
-Created with the amazing help of (Adrian Rosebrock)[https://www.pyimagesearch.com/2017/08/21/deep-learning-with-opencv].
+Created with the amazing help of [Adrian Rosebrock](https://www.pyimagesearch.com/2017/08/21/deep-learning-with-opencv).
